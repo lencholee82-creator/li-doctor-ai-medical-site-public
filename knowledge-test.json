@@ -1,0 +1,6 @@
+{
+  "release_version": "test-0.0.0",
+  "schema_version": "knowledge-release-test-v1",
+  "title": "虚构测试知识，不含真实医学或客户资料",
+  "content": "This is a fictional connectivity fixture used only to verify HTTPS GET delivery."
+}

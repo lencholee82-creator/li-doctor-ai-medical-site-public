@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://lencholee82-creator.github.io/li-doctor-ai-medical-site-public/sitemap.xml
